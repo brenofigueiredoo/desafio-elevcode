@@ -1,4 +1,4 @@
-# Desafio Elev Code 📽️
+# Desafio ElevCode 📽️
 
  API Backend, que possibilita aos usuários registrar buscar, favoritar os filmes. Realizar operações de login e criação de usuário.
 
